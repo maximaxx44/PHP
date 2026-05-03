@@ -460,6 +460,38 @@ studytasks_db
 
 ## Примеры использования проекта
 
+### Главная страница
+
+<img width="1899" height="864" alt="image" src="https://github.com/user-attachments/assets/6fda19eb-b4d2-4111-b44c-85665b5572e6" />
+
+### База знаний
+
+<img width="1899" height="867" alt="image" src="https://github.com/user-attachments/assets/ae893528-3115-4db4-9676-19788bf3c6fe" />
+
+### Страница входа
+
+<img width="1918" height="864" alt="image" src="https://github.com/user-attachments/assets/b2845998-f964-4b7f-b485-38848d2ba0a8" />
+
+### Личный кабинет
+
+<img width="1900" height="862" alt="image" src="https://github.com/user-attachments/assets/e99eb36d-27fd-419c-aa29-9dc47f6a6518" />
+
+### Создание задания
+
+<img width="1899" height="866" alt="image" src="https://github.com/user-attachments/assets/0ce11049-ab53-4ad9-843d-f6aca5904d5d" />
+
+### Поиск заданий
+
+<img width="1900" height="864" alt="image" src="https://github.com/user-attachments/assets/e49cc396-19ce-4f2d-9f5e-6337833e99d4" />
+
+### Административная панель
+
+<img width="1918" height="865" alt="image" src="https://github.com/user-attachments/assets/fe36f8b2-f16a-44d4-888a-87fd91ea3c13" />
+
+### Восстановление пароля
+
+<img width="1918" height="863" alt="image" src="https://github.com/user-attachments/assets/c9b50ed9-c59e-4998-9b2e-8c8731933c9b" />
+
 ### Пример подключения к базе данных через PDO
 
 ```php
