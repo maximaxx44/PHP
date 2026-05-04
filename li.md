@@ -1,3 +1,15 @@
+Ministerul Educaţiei și Cercetării al Republicii Moldova 
+
+Universitatea de Stat a Moldovei 
+
+Отчёт
+Индивидуальная работа
+
+Выполнил: Орлов Максим
+Группа: IA-2404
+
+USM, Chișinău 2026
+
 # StudyTasks
 
 ## Описание проекта
